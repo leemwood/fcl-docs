@@ -14,7 +14,28 @@ export default defineConfig({
   
   themeConfig: {
     search: {
-      provider: 'local'
+      provider: 'local',
+      options: {
+        locales: {
+          root: {
+            translations: {
+              button: {
+                buttonText: '搜索文档',
+                buttonAriaLabel: '搜索文档'
+              },
+              modal: {
+                noResultsText: '无法找到相关结果',
+                resetButtonTitle: '清除查询条件',
+                footer: {
+                  selectText: '选择',
+                  navigateText: '切换',
+                  closeText: "取消"
+                }
+              }
+            }
+          }
+        }
+      }
     },
     docFooter: {
       prev: '上一篇',
@@ -54,7 +75,6 @@ export default defineConfig({
         text: 'fcl启动器',
         items: [
           { text: '介绍', link: '/docs/fcl/intro' },
-          { text: '渲染器', link: '/docs/fcl/launcher/GL' },
           { text: '不详细的功能介绍', link: '/docs/fcl/launcher/LATT' },
           { text: '禁忌的模组', link: '/docs/fcl/crash/mods' },
           { text: '崩溃处理方法', link: '/docs/fcl/crash/crash' },
