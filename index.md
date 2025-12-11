@@ -15,11 +15,11 @@ hero:
 
     - theme: alt
       text: 快速入门
-      link: /docs/intro.md
+      link: /docs/intro
 
     - theme: alt
       text: 下载渲染器
-      link: /docs/plugins.md
+      link: /docs/plugins
 
 ---
 ::: tip ◈ 欢迎反馈问题
