@@ -6,8 +6,8 @@ hero:
   text: "为新手提供快速入门"
   tagline: 心如止水，水如无波。
   image: 
-    src: /fcl_logo.png
-    alt: "fcl logo"
+    src: /logo.png
+    alt: "logo"
   actions:
     - theme: brand
       text: 安装与下载

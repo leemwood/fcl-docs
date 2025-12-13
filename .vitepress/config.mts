@@ -9,10 +9,11 @@ export default defineConfig({
   },
   lang: 'zh-CN',
   head: [
-    ['link', { rel: 'icon', href: '/fcl_logo.png' }]
+    ['link', { rel: 'icon', href: '/icon.png' }]
   ], 
   
   themeConfig: {
+    logo: '/icon.png',
     search: {
       provider: 'local',
       options: {
