@@ -46,7 +46,7 @@
 ![渲染器选择错误崩溃](/img/crash/crash2.jpg)
 在图片第六行中能看到Renderer也就是渲染器为VGPU，而VGPU只支持1.17-，所以导致了游戏崩溃
 解决办法：<br />
-==切换渲染器==，渲染器兼容性请看[渲染器文档](http://docs.ningmo.fun/docs/GL.html)，切换前请检查游戏设置是否开启了启用游戏特定设置，开启后请在游戏设置界面更改渲染器而不是在全局游戏设置里更改
+==切换渲染器==，渲染器兼容性请看[渲染器文档](http://docs.lemwood.cn/docs/GL.html)，切换前请检查游戏设置是否开启了启用游戏特定设置，开启后请在游戏设置界面更改渲染器而不是在全局游戏设置里更改
 #### 2. 游戏文件缺失
 ![游戏缺失文件崩溃](/img/crash/crash3.jpg)
 游戏文件缺失而崩溃是非常容易发现的，具体表现为上图：游戏刚启动就崩溃，日志内容戛然而止，没有崩溃日志
@@ -64,7 +64,7 @@
 ![不兼容钠崩溃](/img/crash/crash4.jpg)
 在尝试运行大型整合包后，游戏能成功的加载到主界面，但是一进世界就会崩溃(如上图日志所示)，这一般是在整合包里有优化模组-[钠(sodium)](https://www.curseforge.com/minecraft/mc-mods/sodium)或[Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium)或其他不兼容的模组<br />
 解决办法：<br />
-详情请看[禁忌的模组](http://docs.ningmo.fun/docs/mods.html)(不完全)
+详情请看[禁忌的模组](http://docs.lemwood.cn/docs/mods.html)(不完全)
 <br />
 如果是游戏加载过程中崩溃，那就得考虑是不是有其他不兼容的模组
 
