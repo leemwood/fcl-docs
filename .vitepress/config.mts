@@ -102,7 +102,6 @@ export default defineConfig({
       {
         text: '关于本站',
         items: [
-          { text: 'README', link: '/README' },
           { text: '关于本站', link: '/about' },
         ]
       },
