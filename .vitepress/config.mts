@@ -6,7 +6,7 @@ export default defineConfig({
   title: "DMTR",
   description: "为移动端设备准备的新手文档",
   sitemap: {
-    hostname: 'https:/.lemwood.cn'
+    hostname: 'https://docs.lemwood.cn'
   },
   lang: 'zh-CN',
   head: [
