@@ -10,28 +10,28 @@
   当前版本:1.0  
   类型:渲染器  
   下载:  
-  [直接下载](https://docs.lemwood.cn/d/plugins/旧版holy.apk)|[123云盘](https://www.123684.com/s/zcTSVv-1AYO3)  
+  无|[123云盘](https://www.123684.com/s/zcTSVv-1AYO3)  
 
 **2.ANGLE**
 > 描述:暂无描述。  
   当前版本:1.0  
   类型:渲染器  
   下载:  
-  [直接下载](https://docs.lemwood.cn/d/plugins/ANGLE.apk)|[123云盘](https://www.123684.com/s/zcTSVv-1AYO3)
+  无|[123云盘](https://www.123684.com/s/zcTSVv-1AYO3)
 
 **3.Turnip**
 > 描述:暂无描述。  
   当前版本:23.2.0  
   类型:驱动  
   下载:  
-  [直接下载](https://docs.lemwood.cn/d/plugins/Turnip_23.2.0.apk)|[123云盘](https://www.123684.com/s/zcTSVv-1AYO3)
+  无|[123云盘](https://www.123684.com/s/zcTSVv-1AYO3)
 
 **4.Turnip**
 > 描述:暂无描述。  
   当前版本:24.3.2  
   类型:驱动
   下载:  
-  [直接下载](https://docs.ninhmo.fun/d/plugins/Turnip_24.3.2.apk)|[123云盘](https://www.123684.com/s/zcTSVv-1AYO3)
+  无|[123云盘](https://www.123684.com/s/zcTSVv-1AYO3)
 
 ## 安装方法
 1.下载插件，安装。  
