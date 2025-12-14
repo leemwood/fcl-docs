@@ -113,7 +113,7 @@ export default defineConfig({
     ],
     footer: {
       copyright: '© 2026 @DMTR教程编写 <p>此文档由玩家社区贡献，请忽与任何官方挂钩。</p>',
-      message: '<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">新ICP备2024015133号-4</a>'
+      message: '<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">新ICP备2024015133号-3</a>'
     }
   }
 })
