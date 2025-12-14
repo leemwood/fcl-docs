@@ -11,11 +11,11 @@ hero:
   actions:
     - theme: brand
       text: 安装与下载
-      link: /docs/download
+      link: /download
 
     - theme: alt
       text: 快速入门
-      link: /docs/intro
+      link: /intro
 
 ---
 ::: tip ◈ 欢迎反馈问题

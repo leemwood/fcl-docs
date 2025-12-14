@@ -6,7 +6,7 @@ export default defineConfig({
   title: "DMTR",
   description: "为移动端设备准备的新手文档",
   sitemap: {
-    hostname: 'https://docs.lemwood.cn'
+    hostname: 'https:/.lemwood.cn'
   },
   lang: 'zh-CN',
   head: [
@@ -46,7 +46,7 @@ export default defineConfig({
     returnToTopLabel: '返回顶部',
     sidebarMenuLabel: '菜单',
     editLink: {
-      pattern: 'https://github.com/fcl-docs/fcl-docs/edit/main/docs/:path',
+      pattern: 'https://github.com/leemwood/fcl-docs/edit/main/:path',
       text: '在 GitHub 上编辑此页'
     },
     lastUpdated: {
@@ -59,52 +59,51 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '文档首页', link: '/' },
-      { text: '下载安装', link: '/docs/download' },
-      { text: '渲染器插件', link: '/docs/plugins' },
-      { text: '快速入门', link: '/docs/intro' },
+      { text: '下载安装', link: '/download' },
+      { text: '快速入门', link: '/intro' },
     ],
 
     sidebar: [
       {
         text: '开始',
         items: [
-          { text: '下载与安装', link: '/docs/download' },
-          { text: '快速入门（待移除）', link: '/docs/intro' }
+          { text: '下载与安装', link: '/download' },
+          { text: '快速入门', link: '/intro' }
         ]
       },
       {
         text: 'fcl启动器',
         items: [
-          { text: '介绍', link: '/docs/fcl/intro' },
-          { text: '不详细的功能介绍', link: '/docs/fcl/launcher/LATT' },
-          { text: '禁忌的模组', link: '/docs/fcl/crash/mods' },
-          { text: '崩溃处理方法', link: '/docs/fcl/crash/crash' },
-          { text: '一部分崩溃的处理方式', link: '/docs/fcl/crash/crash-kx' },
-          { text: '控件上传', link: '/docs/fcl/controler/cc' },
-          { text: '创建新键位', link: '/docs/fcl/controler/nc' },
+          { text: '介绍', link: '/fcl/intro' },
+          { text: '不详细的功能介绍', link: '/fcl/launcher/LATT' },
+          { text: '禁忌的模组', link: '/fcl/crash/mods' },
+          { text: '崩溃处理方法', link: '/fcl/crash/crash' },
+          { text: '一部分崩溃的处理方式', link: '/fcl/crash/crash-kx' },
+          { text: '控件上传', link: '/fcl/controler/cc' },
+          { text: '创建新键位', link: '/fcl/controler/nc' },
         ]
       },
       {
         text: '插件',
         items: [
-          { text: '官方插件', link: '/docs/plugins/plugins' },
-          { text: '衍生插件', link: '/docs/plugins/dplugins' },
+          { text: '官方插件', link: '/plugins/plugins' },
+          { text: '衍生插件', link: '/plugins/dplugins' },
         ]
       },
       {
         text: 'Vulkan mod',
         items: [
-          { text: 'Vulkan mod', link: '/docs/vulkan/Vulkanmod' },
-          { text: 'Android Lib', link: '/docs/vulkan/AndroidLib' },
-          { text: 'VulkanAPI', link: '/docs/vulkan/VulkanAPI-Check' },
-          { text: '成品VulkanMod', link: '/docs/vulkan/VulkanMod-Done' },
+          { text: 'Vulkan mod', link: '/vulkan/Vulkanmod' },
+          { text: 'Android Lib', link: '/vulkan/AndroidLib' },
+          { text: 'VulkanAPI', link: '/vulkan/VulkanAPI-Check' },
+          { text: '成品VulkanMod', link: '/vulkan/VulkanMod-Done' },
         ]
       },
       {
         text: '关于本站',
         items: [
           { text: 'README', link: '/README' },
-          { text: '关于本站', link: '/docs/about' },
+          { text: '关于本站', link: '/about' },
         ]
       },
     ],
