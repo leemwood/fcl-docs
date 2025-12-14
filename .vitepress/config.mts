@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  srcDir: 'docs',
   title: "DMTR",
   description: "为移动端设备准备的新手文档",
   sitemap: {
@@ -10,8 +11,7 @@ export default defineConfig({
   lang: 'zh-CN',
   head: [
     ['link', { rel: 'icon', href: '/icon.png' }]
-  ], 
-  
+  ],
   themeConfig: {
     logo: '/icon.png',
     search: {
