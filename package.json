@@ -1,7 +1,7 @@
 {
   "scripts": {
     "docs:dev": "vitepress dev",
-    "docs:build": "git fetch --unshallow && vitepress build docs",
+    "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
