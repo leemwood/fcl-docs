@@ -17,6 +17,12 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
+/* Utility classes used by docs to avoid inline style attributes in MDX */
+.text-red { color: #d9534f; }
+.text-green { color: #3c763d; }
+.text-gray { color: #6c757d; }
+.bg-yellow { background-color: #fff3cd; padding: .1rem .25rem; border-radius: 3px; }
+
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;

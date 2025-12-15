@@ -32,13 +32,13 @@
 ## 尝试解决问题
 
 在尝试解决问题之前请确保你设备上安装了文件管理类软件、文本查看类软件以及拥有
-**<span style="color: red;">良好的视力与文字交流能力</span>**
+**<span class="text-red">良好的视力与文字交流能力</span>**
 ### 软件崩溃
 
 对于个人而言，你需要把软件崩溃之前的详细过程记下来，然后向FCL的仓库[提交issue](https://github.com/FCL-Team/FoldCraftLauncher/issues)，最后
-~~<span style="color: gray;">坐和放宽</span>~~
+  ~~<span class="text-gray">坐和放宽</span>~~
 耐心等待修复bug修复
-<span style="color: gray;">实在等不及可以去用户群催（</span>
+  <span class="text-gray">实在等不及可以去用户群催（</span>
 
 ### 游戏崩溃
 游戏崩溃分许多种类型，以下给出常见崩溃的解决方案：
@@ -51,14 +51,14 @@
 ![游戏缺失文件崩溃](/img/crash/crash3.jpg)
 游戏文件缺失而崩溃是非常容易发现的，具体表现为上图：游戏刚启动就崩溃，日志内容戛然而止，没有崩溃日志
 解决办法：<br />
-<span style="background-color: yellow">重新安装游戏版本</span>
+<span class="bg-yellow">重新安装游戏版本</span>
 或
-<span style="background-color: yellow">关闭不检查游戏完整性</span>
+<span class="bg-yellow">关闭不检查游戏完整性</span>
 #### 3. 模组加载器文件缺失
 [无图片]
 许多人在某个渠道安装了一个整合包后，直接启动会发现游戏刚运行就崩溃，这大概率是安装整合包后没补全模组加载器的相关文件，因为涉及许多可能性，所以这里只说一个典例，崩溃多发于安装整合包后
 解决办法： <br />
-<span style="background-color: yellow">安装一个相同模组加载器的游戏版本</span>
+<span class="bg-yellow">安装一个相同模组加载器的游戏版本</span>
 ，例如你游戏版本为1.20.1，Forge版本为47.3.5(模组加载器版本一般会表明在版本名称下方)，时候你就应该安装一个1.20.1版本并在安装时选择47.3.5版本的Forge
 #### 4.模组不兼容
 ![不兼容钠崩溃](/img/crash/crash4.jpg)
