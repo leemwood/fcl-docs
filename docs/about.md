@@ -11,5 +11,5 @@ title: 关于本站
 
 # 鸣谢
 - DMTR教程部 -提供教程
-- vitepress  -网站框架
+- Docusaurus  -网站框架
 - edgeone -网站部署
