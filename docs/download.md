@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+title: 下载
+---
+
 # 下载
 
 ## 下载启动器

@@ -1,0 +1,57 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+:root {
+  /* 默认（亮色）背景图，注意仓库中图片名为 ackground.jpg */
+  --hero-bg: url('/img/ackground.jpg');
+  /* 首页标题颜色：浅色主题使用深色字体 */
+  --hero-title-color: #111111;
+  /* 首页副标题颜色：浅色主题使用较深字体 */
+  --hero-subtitle-color: #333333;
+}
+
+.heroBanner {
+  background-image: var(--hero-bg);  /* 使用变量以便主题切换 */
+  background-size: cover;       /* 覆盖整个区域 */
+  background-position: top center;  /* 顶部对齐 */
+  background-repeat: no-repeat; /* 禁止重复 */
+  background-attachment: scroll; /* 不固定背景，随内容滚动 */
+  margin: 0;                   /* 确保自身没有外边距 */
+  /* 将 banner 向上拉到视口顶部（不改变背景固定性），
+     使用 Docusaurus/Infima 可能提供的变量 `--ifm-navbar-height`，
+     回退值为 56px。将内边距上移以避免内容被导航栏遮挡。 */
+  min-height: 100vh;          /* 设置最小高度（可选） */
+}
+
+/* 针对 hero 标题（全局类 .hero__title），使用变量以便主题切换 */
+.heroBanner :global(.hero__title) {
+  color: var(--hero-title-color);
+}
+
+/* 针对 hero 副标题（全局类 .hero__subtitle），也随主题切换颜色 */
+.heroBanner :global(.hero__subtitle) {
+  color: var(--hero-subtitle-color);
+  opacity: 0.95;
+}
+
+/* 针对移动设备进行优化 */
+@media (max-width: 996px) {
+  .heroBanner {
+    background-attachment: scroll; /* 移动端禁用固定背景，提高性能 */
+    background-position: left center; /* 在移动端将图片向左对齐 */
+    padding: 4rem 0; /* 减小移动端的内边距 */
+  }
+}
+
+[data-theme='dark'] {
+  .heroBanner {
+    /* 深色主题时切换变量到深色背景（仓库中为 ackground-dark.jpg） */
+    --hero-bg: url('/img/ackground-dark.jpg');
+    /* 深色主题时反转首页标题颜色为浅色 */
+    --hero-title-color: #ffffff;
+    /* 深色主题时副标题使用浅色（稍微降低不透明以示层次） */
+    --hero-subtitle-color: rgba(255,255,255,0.9);
+  }
+}

@@ -24,7 +24,7 @@
 
 2. (~~**移动胶**~~)  **MobileGlues**  
 **图标**: 
-<img src="/img/dplugins/MobileGlues-icon.png" alt="MobileGlues" width="128" height="128">
+<img src="/img/dplugins/MobileGlues-icon.png" alt="MobileGlues" width="128" height="128" />
 
 **作者**: **[BZLZHH](https://github.com/BZLZHH)**，**[Swung0x48](https://github.com/Swung0x48)**，**[Tungstend](https://github.com/Tungstend)**  
 **类型**: 渲染器  

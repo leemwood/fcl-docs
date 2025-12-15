@@ -101,17 +101,3 @@ FCL左侧栏包含以下主要功能按键:
 **编辑:** [后天盼蕾](https://github.com/hotianbexuanto)  
 **创建:** 2024.12.10  
 **更新:** 2024.12.22
-
-<style scoped>
-img {
-  background-color: #444;
-  padding: 5px;
-  border-radius: 5px;
-}
-
-@media (prefers-color-scheme: dark) {
-  img {
-    background-color: #555;
-  }
-}
-</style>
