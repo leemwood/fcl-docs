@@ -22,3 +22,4 @@ yarn-error.log*
 # IDEs and editors
 .idea
 .vscode
+*.lnk
