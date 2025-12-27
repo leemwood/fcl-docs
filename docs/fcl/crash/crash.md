@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+title: 崩溃处理
+---
 <div align="center">
 
 # 崩溃处理

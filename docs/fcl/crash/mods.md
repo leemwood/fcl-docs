@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+title: 禁忌的模组
+---
 <div align="center">
 
 # 禁忌的模组

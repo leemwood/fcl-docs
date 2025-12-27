@@ -1,3 +1,7 @@
+---
+sidebar_position: 0
+title: 处理方法
+---
 <div align="center">
 
 # 一部分崩溃的处理方式(WIP)

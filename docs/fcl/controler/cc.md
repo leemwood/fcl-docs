@@ -1,3 +1,7 @@
+---
+sidebar_position: 0
+title: 上传布局
+---
 <h1 align="center">FCL键位上传教程及本群群规</h1>
 
  本教程可以让你了解如何在FCl启动器上传自制键位和审核群相关规则，审核通过后可以在启动器内查看到和下载。<span class="text-red">请认真查看内容，上传错误没人教。</span><span class="text-green">上传之前请明确：不可上传自用键位，只推荐上传面向大众（用户）而制作且会更新的键位。</span>

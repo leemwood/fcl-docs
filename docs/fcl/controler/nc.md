@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+title: 创建布局
+---
 <h1 align="center">创建一个新的FCL键位</h1>
 
 本教程可以让你了解如何在 FCL 启动器中创建一个新的键位。

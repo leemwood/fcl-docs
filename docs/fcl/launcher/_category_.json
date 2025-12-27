@@ -1,0 +1,10 @@
+{
+    "position": 1,
+    "label": "启动器",
+    "collapsible": true,
+    "collapsed": false,
+    "link": {
+        "type": "generated-index",
+        "title": "启动器" 
+    }
+}
