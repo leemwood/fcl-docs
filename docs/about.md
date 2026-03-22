@@ -18,7 +18,7 @@ title: 关于本站
 
 ## 鸣谢
 
-- **DMTR 教程部** - 提供教程内容
+- **fcl玩家社区 教程部** - 提供教程内容
 - **Docusaurus** - 网站框架
 - **EdgeOne** - 网站部署
 - **FCL Team** - Fold Craft Launcher 开发

@@ -123,7 +123,7 @@ const config: Config = {
       copyright: `
         <div style="margin-top: 2rem; border-top: 1px solid #444; padding-top: 1rem">
           <div>
-                版权所有 © ${new Date().getFullYear()} by DMTR · 
+                版权所有 © ${new Date().getFullYear()} by fcl玩家社区 · 
           </div>
           <div>
             此网站基于 <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>开发.

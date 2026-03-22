@@ -5,7 +5,7 @@ title: 前言
 
 :::tip ◈ 欢迎反馈问题
  存在问题请加QQ群[foldcraftlauncher玩家交流群1](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=CGbo6wTBOyObAMHpoK2jurd9thz7Wkvs&authKey=7QLULXcXdZFCGkO%2F16zLnEVhRKLwtdc3GTuuqVRaG%2BcxVxpMWqFrEM046OzOB9ud&noverify=0&group_code=743460071)  
- 或DMTR频道[DMTR](https://pd.qq.com/s/1iun7erak?b=9)
+ 或fcl玩家社区频道[fcl玩家社区](https://pd.qq.com/s/1iun7erak?b=9)
 :::
 ## 启动器原理
 手机玩JAVA版minecraft依赖于启动器与渲染器的共同作用，其上手难度肯定比网易版这种吧饭喂嘴里的难度高许多，如果你有耐心，那么手机JAVA版圈子欢迎你的加入。  
