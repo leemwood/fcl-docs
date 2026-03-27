@@ -3,7 +3,7 @@
 ## 介绍
 
 <div align="center">
-    <img width="75" src="/fcl_logo.png"></img>
+    <img width="75" src="/fcl_icon.png"></img>
 </div>
 
 <h1 align="center">Fold Craft Launcher</h1>

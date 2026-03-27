@@ -102,8 +102,7 @@ const config: Config = {
           items: [
             { label: '快速开始', to: '/docs/intro' },
             { label: 'FCL 启动器', to: '/docs/fcl/intro' },
-            { label: '插件', to: '/docs/plugins/plugins' },
-            { label: 'Vulkan', to: '/docs/vulkan/Vulkanmod' },
+            { label: '插件', to: '/docs/plugins' },
           ],
         },
         {
@@ -115,7 +114,7 @@ const config: Config = {
             },
             {
               label: 'QQ群',
-              href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=CGbo6wTBOyObAMHpoK2jurd9thz7Wkvs&authKey=7QLULXcXdZFCGkO%2F16zLnEVhRKLwtdc3GTuuqVRaG%2BcxVxpMWqFrEM046OzOB9ud&noverify=0&group_code=743460071',
+              href: 'Foldhttps://qm.qq.com/q/qzQPErrjnc',
             }
           ],
         },
