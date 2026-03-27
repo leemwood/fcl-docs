@@ -114,7 +114,7 @@ const config: Config = {
             },
             {
               label: 'QQ群',
-              href: 'Foldhttps://qm.qq.com/q/qzQPErrjnc',
+              href: '/docs/qqgroup',
             }
           ],
         },
