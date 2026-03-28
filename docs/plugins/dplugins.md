@@ -26,6 +26,13 @@ title: 衍生插件
 
 **下载链接**: [ng-gl4es.bzlzhh.top](https://ng-gl4es.bzlzhh.top/)
 
+:::tip 提示
+kw渲染器已内置在 FCL 中，无需单独下载。
+:::
+
+
+
+
 ---
 
 ### 2. MobileGlues
