@@ -27,3 +27,8 @@ boat:
   label: boat
   permalink: /boat
   description: boat 渲染器相关内容
+
+ZL2:
+  label: ZL2
+  permalink: /zl2
+  description: ZL2 启动器相关内容
