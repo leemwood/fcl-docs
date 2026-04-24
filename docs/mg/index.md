@@ -13,7 +13,7 @@ MobileGL（MobileGlues），全称 "(on) Mobile, GL uses ES"，是一个运行�
 | 下载渠道 | 链接 |
 |---------|------|
 | GitHub | [Releases](https://github.com/MobileGL-Dev/MobileGlues-release/releases) |
-| FCL 下载站 | [FCL-Download]() |
+| FCL 下载站 | [foldcraftlauncher.cn](https://foldcraftlauncher.cn) |
 | 柠枺镜像 | [mirror.lemwood.icu](https://mirror.lemwood.icu/) |
 
 ::: 
