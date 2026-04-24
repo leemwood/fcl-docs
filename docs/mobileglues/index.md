@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-title: MobileGL 简介
+title: MobileGlues 简介
 ---
 
-# MobileGL 移动端渲染器
+# MobileGlues 移动端渲染器
 
 MobileGL（MobileGlues），全称 "(on) Mobile, GL uses ES"，是一个运行在 host OpenGL ES 3.x 之上的 GL 实现，专为在移动设备运行 Minecraft: Java Edition 设计。
 
